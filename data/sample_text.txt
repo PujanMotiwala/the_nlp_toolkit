@@ -1,0 +1,2 @@
+Natural Language Processing with Python is fun and exciting!
+This is an example text for demonstrating text preprocessing techniques.
