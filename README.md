@@ -1,15 +1,14 @@
-# The_NLP_Toolkit
+# NLP Toolkit: Comprehensive Text Analysis
 
-Welcome to **The_NLP_Toolkit**! This repository is dedicated to exploring various activation functions used in neural networks. Our goal is to understand when and how different activation functions are helpful in different scenarios.
+Welcome to the NLP Toolkit! This repository provides a comprehensive set of tools and tutorials for various NLP techniques and models. Whether you're a beginner or an experienced data scientist, this toolkit will help you explore, understand, and implement a wide range of NLP tasks.
 
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Activation Functions](#activation-functions)
+- [Techniques](#techniques)
 - [Usage](#usage)
 - [Installation](#installation)
 - [Examples](#examples)
-- [Comparative Analysis](#comparative-analysis)
 - [Contributing](#contributing)
 - [License](#license)
 
