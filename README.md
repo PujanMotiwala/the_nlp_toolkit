@@ -51,6 +51,33 @@ cd The_NLP_Toolkit
 Install the required dependencies:
 
 ```bash
-git clone https://github.com/PujanMotiwala/The_NLP_Toolkit.git
-cd The_NLP_Toolkit
+pip install -r requirements.txt
 ```
+## Examples
+
+We provide several example scripts demonstrating the use of different NLP techniques. You can find them in the examples directory.
+
+Here’s how you can run an example:
+
+```bash
+python examples/example_script.py
+```
+
+Each example script includes a detailed explanation and results analysis.
+
+## Contributing
+
+We welcome contributions from the community! If you have an idea for a new NLP technique or an improvement to an existing one, feel free to open an issue or submit a pull request.
+
+	1.	Fork the repository.
+	2.	Create a new branch (git checkout -b feature-branch).
+	3.	Make your changes.
+	4.	Commit your changes (git commit -am ‘Add new feature’).
+	5.	Push to the branch (git push origin feature-branch).
+	6.	Create a new Pull Request.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+
+
